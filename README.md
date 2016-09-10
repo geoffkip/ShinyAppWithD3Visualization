@@ -5,4 +5,4 @@ To run the D3 visualization app with R and Shiny download the repo and then in R
 
 Enjoy looking through the code to understand and make sure to check out [Machine Learning Davidson](https://mldavidson.wordpress.com/) for other presentations and project demos.
 
-Written by: Mike Seman
+Written by Mike Seman
