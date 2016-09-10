@@ -1,7 +1,9 @@
 # ShinyAppWithD3Visualization
 This repository was created by Mike Seman demoing his Shiny/R App with d3 visualization.
 
-To run the D3 visualization app with R and Shiny download the repo and then in Rstudio set the working directory to <b>ShinyAppWithD3Visualization</b>. Next you want to make sure shiny is installed by using the package installer in Rstudio. Finally to run you can use the Rstudio to run these two commands: 
+To run the D3 visualization app with R and Shiny download the repo and then in Rstudio set the working directory to <b>ShinyAppWithD3Visualization</b>. 
+
+Next you want to make sure <b>shiny</b> and <b>rjson</b> is installed by using the package installer in Rstudio. Finally to run you can use the Rstudio to run these two commands: 
 
 <b>library(shiny) 
 
