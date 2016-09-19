@@ -9,6 +9,8 @@ Next you want to make sure <b>shiny</b> and <b>rjson</b> is installed by using t
 
 runApp()</b>
 
-Enjoy looking through the code to understand and make sure to check out [Machine Learning Davidson](https://mldavidson.wordpress.com/) for other presentations and project demos.
+Enjoy looking through the code to understand and make sure to check out [Machine Learning Davidson](https://mldavidson.wordpress.com/) for other presentations and project demos. Below is a link to a live example:
+
+https://mccann.shinyapps.io/barchart/
 
 Written by Mike Seman
